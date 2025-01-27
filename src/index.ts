@@ -9,3 +9,5 @@
  */
 
 export { format } from './utils/utils';
+
+console.log('test')
